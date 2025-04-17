@@ -25,10 +25,9 @@ Ferramenta **não oficial** desenvolvida exclusivamente para servidores do IBGE 
 ## 🐞 Reportando Bugs
 Sua ajuda é fundamental para melhorar o sistema. Relate problemas, falhas ou sugestões:
 
-- **Abra uma *issue*** neste repositório
 - Envie um e-mail para **vandre.ferreira@ibge.gov.br**
 
-> Responderei e corrigirei **assim que possível**, mas sem garantias de prazo.
+> Responderei e corrigirei assim que possível e disponibilizade de tempo.
 
 ---
 
