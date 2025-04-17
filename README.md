@@ -21,7 +21,7 @@ Este projeto é uma **ferramenta não oficial**, desenvolvida **exclusivamente p
 - Facilitar o **acompanhamento da pesquisa**  
 - Automatizar a **criação de e-mails**  
 
-> ⚠️ A aplicação ainda está em fase de testes. Algumas funcionalidades podem não funcionar corretamente.
+> ⚠️ A aplicação ainda está em desenvolvimento. Algumas funcionalidades podem não funcionar corretamente.
 
 ---
 
