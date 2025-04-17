@@ -15,8 +15,7 @@ Acesse a versão mais recente do sistema diretamente pelo link abaixo:
 Ferramenta **não oficial** desenvolvida exclusivamente para servidores do IBGE nas agências, com o objetivo de:
 
 - Automatizar processos das **Pesquisas Econômicas Anuais**
-- Centralizar e facilitar a geração de relatórios
-- Agilizar o acompanhamento de pendências e prazos
+- Facilitar o acompanhamento da pesquisa
 - Automatizar a criação de e-mails.
 
 > **ALERTA:** A aplicação ainda não está pronta, várias funcionalidades podem falhar ou apresentar comportamentos inesperados.
