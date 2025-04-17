@@ -1,26 +1,57 @@
-🚧 Gerenciador de Pesquisas Econômicas Anuais (Site)
-⚠️ AVISO IMPORTANTE: Este site está em desenvolvimento ativo e repleto de bugs.
+# 🚧 Gerenciador de Pesquisas Econômicas Anuais (Site)
 
-🌐 Como Acessar
-Acesse a versão mais recente do sistema diretamente pelo link abaixo: 🔗 https://vandreborba.github.io/controle_economicas_public/
+⚠️ **AVISO IMPORTANTE:**  
+Este site está em desenvolvimento ativo e ainda pode conter **bugs** e comportamentos inesperados.
 
-📋 Descrição
-Ferramenta não oficial desenvolvida exclusivamente para servidores do IBGE nas agências, com o objetivo de:
+---
 
-Automatizar processos das Pesquisas Econômicas Anuais
-Facilitar o acompanhamento da pesquisa
-Automatizar a criação de e-mails.
-ALERTA: A aplicação ainda não está pronta, várias funcionalidades podem falhar ou apresentar comportamentos inesperados.
+## 🌐 Acesso
 
-🐞 Reportando Bugs
-Sua ajuda é fundamental para melhorar o sistema. Relate problemas, falhas ou sugestões:
+Você pode acessar a versão mais recente do sistema pelo link abaixo:
 
-Envie um e-mail para vandre.ferreira@ibge.gov.br
-Responderei e corrigirei assim que possível e disponibilizade de tempo.
+🔗 [https://vandreborba.github.io/controle_economicas_public/](https://vandreborba.github.io/controle_economicas_public/)
 
-🙋‍♂️ Autor
-Sou um servidor do IBGE lotado em agência. Caso tenha alguma sugestão de outras programas para automatização do serviço, entre em contato.
+---
 
-Esporadicamente faço freelancer como desenvolvedor de software.
+## 📋 Descrição
 
-Me ajude conhecendo meus apps (Somente Android): Controle de FII: https://play.google.com/store/apps/details?id=com.vandreapps.controle_fii_2 Calculadora Renda Fixa: https://play.google.com/store/apps/details?id=com.vandre.calculadoradeinvestimentos
+Este projeto é uma **ferramenta não oficial**, desenvolvida **exclusivamente para servidores do IBGE em agências**, com os seguintes objetivos:
+
+- Automatizar processos relacionados às **Pesquisas Econômicas Anuais**  
+- Facilitar o **acompanhamento da pesquisa**  
+- Automatizar a **criação de e-mails**  
+
+> ⚠️ A aplicação ainda está em fase de testes. Algumas funcionalidades podem não funcionar corretamente.
+
+---
+
+## 🐞 Reporte de Bugs
+
+Sua colaboração é essencial para a melhoria da ferramenta!  
+Caso encontre algum erro, falha ou tenha sugestões, entre em contato:
+
+📧 **vandre.ferreira@ibge.gov.br**  
+
+> Responderei assim que possível, conforme minha disponibilidade de tempo.
+
+---
+
+## 🙋‍♂️ Autor
+
+Sou servidor do IBGE, lotado em agência.  
+Se tiver sugestões de outras ferramentas que possam automatizar processos internos, estou à disposição para ouvir!
+
+Também atuo esporadicamente como **freelancer em desenvolvimento de software**.
+
+---
+
+## 📱 Outros Apps (Somente Android)
+
+Se quiser apoiar meu trabalho, conheça meus outros aplicativos:
+
+- **Controle de FII**  
+  [📲 Play Store](https://play.google.com/store/apps/details?id=com.vandreapps.controle_fii_2)
+  
+- **Calculadora Renda Fixa**  
+  [📲 Play Store](https://play.google.com/store/apps/details?id=com.vandre.calculadoradeinvestimentos)
+
