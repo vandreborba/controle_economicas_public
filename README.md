@@ -1,9 +1,15 @@
 # 🚧 Gerenciador de Pesquisas Econômicas Anuais (Site)
 
+
+
 > **⚠️ AVISO IMPORTANTE:**
 > Este site está **em desenvolvimento ativo** e **repleto de bugs**.
 
 ---
+
+## 🌐 Como Acessar
+Acesse a versão mais recente do sistema diretamente pelo link abaixo:
+🔗 https://vandreborba.github.io/controle_economicas_public/
 
 ## 📋 Descrição
 Ferramenta **não oficial** desenvolvida exclusivamente para servidores do IBGE nas agências, com o objetivo de:
