@@ -1,7 +1,7 @@
 # 🚧 Gerenciador de Pesquisas Econômicas Anuais (Site)
 
 ⚠️ **AVISO IMPORTANTE:**  
-Este site está em desenvolvimento ativo e ainda pode conter **bugs** e comportamentos inesperados.
+Este site está em desenvolvimento ativo, não está completo, pode conter **bugs** e comportamentos inesperados.
 
 ---
 
