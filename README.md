@@ -35,5 +35,10 @@ Sua ajuda é fundamental para melhorar o sistema. Relate problemas, falhas ou su
 ## 🙋‍♂️ Autor
 Sou um servidor do IBGE lotado em agência. Caso tenha alguma sugestão de outras programas para automatização do serviço, entre em contato.
 
+Esporadicamente faço freelancer como desenvolvedor de software.
+
+Me ajude conhecendo meus apps (Somente Android):
+Controle de FII: https://play.google.com/store/apps/details?id=com.vandreapps.controle_fii_2
+Calculadora Renda Fixa: https://play.google.com/store/apps/details?id=com.vandre.calculadoradeinvestimentos
 ---
 
