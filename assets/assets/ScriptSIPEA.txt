@@ -1,0 +1,76 @@
+// Para que serve este arquivo:
+// - Serve para ajudar na associação de técnicos as empresas no SIPEA.
+// - Script deixa destacado em amarelos as empresas que estão na lista do cnpj.
+
+// Como usar:
+// - Vá até a página do sipea para associar os técnicos.
+// - Nos filtros, deixe a primeira coluna da tabela como sendo o CNPJ.
+// - Coloque o seleção em multi.
+// - Copie e cole todo o código no console (entre no F12 no Chorme).
+// - Execute destacarCnpjs(); ele selecionará em amarelo todos os CNPJs.
+
+// Crie uma string com vários CNPJs
+var cnpjsString = `%%cnpjs%%`
+
+// Separe a string em linhas
+var cnpjsLinhas = cnpjsString.split("\n");
+
+// Crie uma lista vazia para armazenar os CNPJs
+var cnpjs = [];
+
+// Loop pelas linhas da string
+for (var i = 0; i < cnpjsLinhas.length; i++) {
+
+  // Remove espaços em branco da linha atual
+  var cnpjLinha = cnpjsLinhas[i].trim();
+
+  // Verifica se a linha contém um CNPJ
+  if (cnpjLinha.length > 0) {
+
+    // Adiciona o CNPJ à lista
+    cnpjs.push(cnpjLinha);
+  }
+}
+
+function destacarCnpjs() {
+  // Avalia o XPath da tabela
+  var xpath = "//table[@id='grid']";
+  var result = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null);
+
+  // Verifica se a tabela foi encontrada
+  if (result && result.singleNodeValue) {
+
+    // Seleciona a tabela
+    var table = result.singleNodeValue;
+
+    // Loop pelas linhas da tabela
+    for (var i = 0; i < table.rows.length; i++) {
+
+      // Seleciona o texto da primeira célula da linha atual
+      var text = table.rows[i].cells[0].innerHTML;
+
+      // Loop pelas CNPJs desejados
+      for (var j = 0; j < cnpjs.length; j++) {
+
+        // Verifica se o texto contém o CNPJ desejado
+        if (text.indexOf(cnpjs[j]) !== -1) {
+
+          // Seleciona a linha desejada
+          var row = table.rows[i];
+
+          // Clica na linha
+          row.click();
+	      row.style.backgroundColor = "yellow";
+
+        // Tentando clicar novamente...
+          table.rows[i].cells[0].click()
+
+          // Para a busca por outras linhas
+          break;
+        }
+      }
+    }
+  }
+}
+
+destacarCnpjs();
